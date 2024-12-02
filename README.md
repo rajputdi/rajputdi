@@ -2,7 +2,10 @@
 
 Hi, I'm Divyesh Singh Rajput, with expertise in designing fault-tolerant data pipelines, optimizing cloud costs, and creating real-time analytics solutions. I've reduced ETL runtimes by over 90%, saving $40,000 in infrastructure costs, and built scalable dashboards enabling actionable insights for cross-functional teams. With hands-on experience in tools like Databricks, Snowflake, and Tableau, I bring a passion for transforming complex datasets into meaningful business outcomes, ensuring efficiency and impact.
 
-Currently, I am a Master of Science in Information Systems student at Northeastern University, Boston. I am graduating in December 2024. 
+Currently, I am a Master of Science in Information Systems student at Northeastern University, Boston. I am graduating in December 2024. I am open to full-time roles anywhere in the United States starting from January 2025. 
+
+## Visa Status
+
 Visa Status: I am on F-1 Visa. I can work on my current visa for 3 years (1 + 2 yrs STEM OPT). After that I'll need sponsorship to work in the United States. 
 
 
