@@ -6,7 +6,7 @@ Currently, I am a Master of Science in Information Systems student at Northeaste
 
 ## Visa Status
 
-Visa Status: I am on F-1 Visa. I can work on my current visa for 3 years (1 + 2 yrs STEM OPT). After that I'll need sponsorship to work in the United States. 
+I am on F-1 Visa. I am living in Boston since september 2022. I can work on my current visa for 3 years (1 + 2 yrs STEM OPT). After that I'll need sponsorship to work in the United States. 
 
 
 ## Technical Skills
